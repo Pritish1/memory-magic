@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memory-magic/static/css/main.bbc9a457.css",
+    "main.js": "/memory-magic/static/js/main.cac19cd0.js",
+    "index.html": "/memory-magic/index.html",
+    "main.bbc9a457.css.map": "/memory-magic/static/css/main.bbc9a457.css.map",
+    "main.cac19cd0.js.map": "/memory-magic/static/js/main.cac19cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc9a457.css",
+    "static/js/main.cac19cd0.js"
+  ]
+}
