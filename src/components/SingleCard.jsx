@@ -11,7 +11,7 @@ const SingleCard = ({card, handleChoice, flipped, blocked}) => {     //the curly
     <div className="card">
         <div className= {flipped ? "flipped" : ""}>
             <img className="front" src={card.src} alt="front side" />
-            <img className="back" onClick={handleClick} src="/img/cover.png" alt="back side" />
+            <img className="back" onClick={handleClick} src="/memory-magic/img/cover.png" alt="back side" />
         </div>
     </div>
     )

@@ -3,12 +3,12 @@ import './App.css'
 import SingleCard from './components/SingleCard';
 
 const cardImages = [            //keeping this outside of the component so that we don't need to reinitialize this every time the comp re-renders
-    {"src": "/img/helmet-1.png", matched: false}, //alt-click at multiple places to have multiple cursors
-    {"src": "/img/scroll-1.png", matched: false},
-    {"src": "/img/ring-1.png", matched: false},
-    {"src": "/img/potion-1.png", matched: false},
-    {"src": "/img/shield-1.png", matched: false},
-    {"src": "/img/sword-1.png", matched: false}
+    {"src": "/memory-magic/img/helmet-1.png", matched: false}, //alt-click at multiple places to have multiple cursors
+    {"src": "/memory-magic/img/scroll-1.png", matched: false},
+    {"src": "/memory-magic/img/ring-1.png", matched: false},
+    {"src": "/memory-magic/img/potion-1.png", matched: false},
+    {"src": "/memory-magic/img/shield-1.png", matched: false},
+    {"src": "/memory-magic/img/sword-1.png", matched: false}
   ]
 
 
